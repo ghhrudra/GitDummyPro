@@ -3,10 +3,11 @@ package com.web.FirstWebsiteNov;
 public class Employee {
 	
 	
-	int id;
-	String name;
-	double salary;
-	String managerName;
+	public	int id;
+	public String name;
+	public double salary;
+	public String managerName;
+
 	
 	
 	void printEmployeeDetails()
